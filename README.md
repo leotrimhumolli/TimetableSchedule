@@ -4,4 +4,4 @@ Timetable creation is a very important and time consuming task for the universit
 I have used the Genetic Algorithm for this problem and created a java project as required.
 
 
-In order to run you have to run the databaza.java file.
+In order to run you have to import the project on NetBeans or in any other editor and in the src package to run the main file (Databaza.java)
