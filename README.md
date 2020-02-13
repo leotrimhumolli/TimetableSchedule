@@ -13,17 +13,17 @@ cd TimetableSchedule
 ### There are two basic ways to run the app
 1. Using the [Netbeans editor](https://netbeans.org/features/java/index.html) or any other editor.
 Import the project on Netbeans following these steps:
-	1.Open Netbeans
-	2.Click File- New Project- JavaFx - JavaFx with existing sources
-	3.Click Next
-	4.Name the project
-	5.Click Next
-	6.Under Source package Folders click New
-	7.Click Java Package and name it with the name of the package the source files have
-	8.Go to the directory location TimetableSchedule
-	9.Click Run
-	10.Click Clean and Build Project
-	11. After you imported, go to src package and open Databaza.java file and run it using the Run command in Netbeans editor
+a. Open Netbeans
+b. Click File- New Project- JavaFx - JavaFx with existing sources
+c. Click Next
+d. Name the project
+e. Click Next
+f. Under Source package Folders click New
+g. Click Java Package and name it with the name of the package the source files have
+h. Go to the directory location TimetableSchedule
+i. Click Run
+j. Click Clean and Build Project
+k. After you imported, go to src package and open Databaza.java file and run it using the Run command in Netbeans editor
     
 2. In the TimetableSchedule folder open commandprompt and navigate to src folder and type 
 ```bash
